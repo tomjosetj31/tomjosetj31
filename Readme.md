@@ -25,7 +25,6 @@ Want to learn DevOps? :
 - [**Learn Ansible**](https://github.com/tomjosetj31/learn-ansible)
 - [**Learn Jenkins**](https://github.com/tomjosetj31/learn-jenkins)
 - [**Learn ArgoCD**](https://github.com/tomjosetj31/learn-argocd)
-- 
 
 ---
 
